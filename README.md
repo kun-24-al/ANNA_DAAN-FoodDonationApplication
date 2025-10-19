@@ -51,3 +51,21 @@ The system provides an interactive interface for donors to register available fo
 
 -   NSS (National Service Scheme) and Robin Hood Army for inspiring the project.
 -   Open-source Java and MySQL communities for development resources.
+
+---
+
+## ⚠️ Important Note on API Key Restriction
+
+This project uses **Google APIs** for translation and text-to-speech features, which require a **private API key** for authentication.
+
+For **security reasons**, the API key is **not included** in the project files and **prevents public upload or sharing** of the complete working application.
+
+If you wish to run the project locally:
+
+1. **Obtain your own Google API key** from the [Google Cloud Console](https://console.cloud.google.com/).  
+2. **Replace the placeholder** in the configuration file or code with your generated key.  
+3. **Verify your key permissions and billing settings** are correctly configured.
+
+> 🔐 **Note:** Sharing or uploading the API key publicly violates Google’s Terms of Service and can expose your account to unauthorized access and billing misuse.
+
+---
