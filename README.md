@@ -28,9 +28,26 @@ The system provides an interactive interface for donors to register available fo
 
 ---
 
-## ⚙️ Installation & Setup
 
-1. **Clone the Repository**
-   ```bash
-   git clone https://github.com/yourusername/anna-daan.git
-   cd anna-daan
+## 🧠 Project Workflow
+
+-   **Donor Registration:** Donors register and submit available food details.
+-   **Volunteer Connection:** Volunteers from NSS or Robin Hood Army view and accept donations nearby.
+-   **Redistribution:** The system facilitates coordination for food pickup and delivery.
+-   **Tracking:** Donation progress and completion are updated in real time.
+
+---
+
+## 📊 Future Enhancements
+
+-   📱 Develop a mobile-friendly version using Flutter or React Native.
+-   🔔 Add real-time notifications for donors and volunteers.
+-   🗺️ Integrate Google Maps API for live location tracking.
+-   🤖 Implement AI-based suggestions for donation distribution zones.
+
+---
+
+## ❤️ Acknowledgements
+
+-   NSS (National Service Scheme) and Robin Hood Army for inspiring the project.
+-   Open-source Java and MySQL communities for development resources.
